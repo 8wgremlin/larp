@@ -59,15 +59,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/"><i class="fa fa-lightbulb-o"></i> {{ site.data.global.title }}</a>
+                <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-lightbulb-o"></i> {{ site.data.global.title }}</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    {% for item in site.data.nav.main %}
-                        <li>
-                            <a href="{{ item.url }}">{{ item.text }}</a>
-                        </li>
-                    {% endfor %}
+                    {% include navigation.html context="/" %}
                 </ul>
             </div>
         </div>
