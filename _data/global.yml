@@ -1,7 +1,7 @@
 # Site Settings
 title: 'LARP Concepts'
 description: 'LARP Concepts'
-url: '' # the base hostname & protocol for your site
+url: '/larp' # the base hostname & protocol for your site
 footer_text: 'This text is footer text. Footer text goes here.'
 
 # Admin Settings
