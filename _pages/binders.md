@@ -17,7 +17,16 @@ Binders of Shaman gain powers based on which chakra points (Head, Heart, Spirit)
 
 You can only bind one spirit to each chakra point, and you can only ever have a known spirit bound once. 
 
-for instance 
+These spirits are capricious and need plicating, sometimes they require certain rites to be performed before they will be summoned.
+
+Such as: 
+
+* You must mark your forehead with their symbol
+* You must have one bare foot in water and one on dry land 
+* You must summon them at Dusk or Dawn only
+
+
+for instance:
 
 ### "Kregot, the opener of the ways"
 
@@ -25,18 +34,14 @@ Head: allows you to see invisible things
 Heart:  - 
 Spirit: - 
 
+
 ### "Lajal, the screaming metal spirit" 
+
 
 Head: causes binder to go berserk, attacking anyone close by whether friend or foe, until they fall over from exhaustion, are killed, or knocked unconscious. 
 Heart: gives +3 armour, which are used up first.
 Spirit: gives you one use of RESIST FEAR
-
-These spirits are capricious and need plicating, sometimes they require certain rites to be performed before they will be summoned.
-
-Such as: 
-
 * You must mark your forehead with their symbol
 
-* You must have one bare foot in water and one on dry land 
 
-* You must summon them at Dusk or Dawn only
+

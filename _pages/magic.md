@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: Magic
-permalink: /magic/
+title: Magic Locations
+permalink: /magic/locations
 ---
 
 There existist in this world magic

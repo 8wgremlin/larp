@@ -9,18 +9,18 @@ the more factors that you have in your favour the better you chance of success a
 
 
 ---
+
 #### OOC Ritual information:
 
 * This Requires a GM to be present
-
-Ritualist + Participants + Location + Star = power
-
+* Ritualist + Participants + Location + Star = power  
 more power = better the effect, more numerous effect, or longer the effect.
 
-1 Submit a Ritual Form: stating in clear OOC terms what you are asking for, and which Spirit you are asking.
 
-2 Perform a 10 minute ‘Ritual performance piece’ with other participants that aims to pleases the spirits as they sit in judgement upon the ‘Ritual’. (this will be one or more GMs) 
 
-3 Await GM’s score and evaluation, may take sometime, and effects can vary depending upon score. - aim to make them cool and enjoyable to those watching and participating.
+1. Submit a Ritual Form: stating in clear OOC terms what you are asking for, and which Spirit you are asking.
+as well as who is participating
+2. Perform a 10 minute ‘Ritual performance piece’ with other participants that aims to pleases the spirits as they sit in judgement upon the ‘Ritual’. (this will be one or more GMs) 
+3. Await GM’s score and evaluation, may take sometime, and effects can vary depending upon score. - aim to make them cool and enjoyable to those watching and participating.
 
 * Location and Star are optional concepts

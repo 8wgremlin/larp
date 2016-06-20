@@ -20,9 +20,9 @@ one of the first spirts that shamans learn about.
 lajal is renowned for its thirst for death and combat, and is often called upon by those seeking its boon.
 
 
- 
+ ---
 
-##OOC notes: 
+### OOC notes: 
 These spirits are often manifest as vaguely humanoid in shape, appearing as both female and male body shapes equally with very specific mask. 
 
 suggested costume - simple black robe/morph suit, with styalised mask, this allows the spirits to be played by varius crew.
