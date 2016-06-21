@@ -28,19 +28,19 @@ Such as:
 
 for instance:
 
-### "Kregot, the opener of the ways"
+### "The opener of the ways"
 
-Head: allows you to see invisible things
-Heart:  - 
-Spirit: - 
-
-
-### "Lajal, the screaming metal spirit" 
+* Head: allows you to see invisible things
+* Heart:  - 
+* Spirit: - 
 
 
-Head: causes binder to go berserk, attacking anyone close by whether friend or foe, until they fall over from exhaustion, are killed, or knocked unconscious. 
-Heart: gives +3 armour, which are used up first.
-Spirit: gives you one use of RESIST FEAR
+### "The screaming metal spirit" 
+
+
+* Head: causes binder to go berserk, attacking anyone close by whether friend or foe, until they fall over from exhaustion, are killed, or knocked unconscious. 
+* Heart: gives +3 armour, which are used up first.
+* Spirit: gives you one use of RESIST FEAR
 * You must mark your forehead with their symbol
 
 
