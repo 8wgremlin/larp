@@ -13,10 +13,10 @@ One should always be curtious to named spirits.
 
 #### Some well known spirits
 
-"Kregot, the opener of the ways"
+"The opener of the ways"
 one of the first spirts that shamans learn about. 
 
-"Lajal, the screaming metal spirit" 
+"The screaming metal spirit" 
 lajal is renowned for its thirst for death and combat, and is often called upon by those seeking its boon.
 
 

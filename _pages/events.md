@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: About
-permalink: /site/about/
+permalink: /site/events/
 ---
 
-About us 
+Events us 
